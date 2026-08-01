@@ -4,7 +4,7 @@ What You Need:
 - A Nintendo DS flashcart or a DS emulator that supports Wi-Fi simulation (such as **MelonDS** or **No$GBA**).
 - A powerful enough computer to run the Python code
 - Python 3.8 or higher (even 3.14 works)
-- Run "pip install Pillow mss pynput"
+- Run `pip install Pillow mss pynput`
 
 How to Run:
 1. Open the DSstream.py file
